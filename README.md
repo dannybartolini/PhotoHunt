@@ -3,15 +3,15 @@ PhotoHunt
 
 Submitted by: Daniel Bartolini
 
-A photography focused. Share photos of your favorite places. Its focused on places but can be modified in some way to emphasize photography in general? Portraits pictrues of people, maybe events, art etc
+A photography focused application. Share photos of your favorite places. Its focused on places but can be modified in some way to emphasize photography in general? Portraits pictrues of people, maybe events, art etc
 
 p0:
 
 - [x] App displays list of hard-coded tasks
 - [x] When a task is tapped it navigates the user to a task detail view
-- [x ] When user adds photo to complete the tasks, it marks the task as complete
-- [x ] When adding photo of task, the location is added
-- [x ] User returns to home page (list of tasks) and the status of your task is updated to complete
+- [x] When user adds photo to complete the tasks, it marks the task as complete
+- [x] When adding photo of task, the location is added
+- [x] User returns to home page (list of tasks) and the status of your task is updated to complete
 
 
 Video Walkthrough
