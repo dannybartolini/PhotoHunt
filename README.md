@@ -19,16 +19,11 @@ Video Walkthrough
 
 <img src='https://github.com/dannybartolini/PhotoHunt/blob/main/photHunt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with KAP
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
-autolayout is always a challenge, I spent a while trying to figure out why my mapview was not showing up at all and it was due to an autolayout bug
+autolayout is always a challenge, mapview was not showing up at all and it was due to an autolayout bug
 
 ## License
 
