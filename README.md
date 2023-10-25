@@ -1,34 +1,21 @@
-# PhotoHunt
+PhotoHunt
 
-# Project 4 - PhotoHunt
 
 Submitted by: Daniel Bartolini
 
-PhotHunt is an app that allows you to upload photos of your favorite places 
+A photography focused. Share photos of your favorite places. Its focused on places but can be modified in some way to emphasize photography in general? Portraits pictrues of people, maybe events, art etc
 
-Time spent: 5 hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
+p0:
 
 - [x] App displays list of hard-coded tasks
 - [x] When a task is tapped it navigates the user to a task detail view
 - [x ] When user adds photo to complete the tasks, it marks the task as complete
 - [x ] When adding photo of task, the location is added
 - [x ] User returns to home page (list of tasks) and the status of your task is updated to complete
- 
-The following **optional** features are implemented:
 
-- [ ] User can launch camera to snap a picture	
 
-The following **additional** features are implemented:
+Video Walkthrough
 
-- [ ] List anything else that you can get done to improve the app functionality!
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/dannybartolini/PhotoHunt/blob/main/photHunt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
